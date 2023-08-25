@@ -5,3 +5,23 @@ footer{
 background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(87,160,246,1) 100%);
 /* margin-top: 90%; */
 }
+h1{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center ;
+    
+}
+
+.PngFooter{
+    max-width: 5%
+    
+}
+
+.estrellitas{
+    max-width: 25%;
+}
+
+nav{
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(87,160,246,1) 100%);
+}
