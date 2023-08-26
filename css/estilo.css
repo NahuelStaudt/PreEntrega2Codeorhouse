@@ -10,11 +10,11 @@ h1{
     margin-top: 100px;
     display: flex;
     justify-content: center ;
-    
+
 }
 
 .PngFooter{
-    max-width: 12%;
+    max-width: 20%;
     max-height: auto;
     align-items: center;
 /* width: 20%;
@@ -52,3 +52,33 @@ nav{
     color: blue;
     text-decoration: underline;
 } */
+
+.div-texto-index{
+    margin-top: 100px;
+}
+
+.table{
+
+margin-top: 100px;
+}
+
+.margin-top-100-px{
+    margin-top: 100px;
+}
+
+.imagen-trofeo{
+    width: 30%;
+    height: 20%px;
+}
+
+.tres-copas{
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    margin-top: 50px;
+}
+
+.to{
+
+color: black;
+}
